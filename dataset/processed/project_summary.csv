@@ -1,4 +1,4 @@
 project,bug_issues,avg_fix_time_days,median_fix_time_days,avg_comments
 pallets/flask,36,175.26,36.81,10.19
 psf/requests,122,271.56,54.47,13.33
-scrapy/scrapy,196,152.2,18.78,4.11
+scrapy/scrapy,196,142.11,18.23,4.12
