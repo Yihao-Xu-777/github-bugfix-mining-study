@@ -1,0 +1,35 @@
+owner,repo,project,commit_id,commit_message,commit_date,total_changes,additions,deletions,changed_files,html_url
+psf,requests,psf/requests,c3c90bb09c9f4cd635ea28cbc784ee5f724bdab8,"default headers and content encoding settings
+Closes #78",2011-07-24T02:35:46Z,21,17,4,2,https://github.com/psf/requests/commit/c3c90bb09c9f4cd635ea28cbc784ee5f724bdab8
+psf,requests,psf/requests,c7b99f78192bdff62fad4f92039396c0dfbe4fb8,"Set Response.sent to True
+
+Fixes #291",2011-11-27T16:29:52Z,1,1,0,1,https://github.com/psf/requests/commit/c7b99f78192bdff62fad4f92039396c0dfbe4fb8
+psf,requests,psf/requests,9cf9d76eb5af142f983efb776776b0888febc978,"Merge pull request #477 from maxcountryman/develop
+
+potentially fixes #338",2012-03-16T01:15:27Z,6,6,0,1,https://github.com/psf/requests/commit/9cf9d76eb5af142f983efb776776b0888febc978
+psf,requests,psf/requests,f003025a37f9d546570e52f7d355c6f5d1a81617,"Attach Content-Length to everything.
+
+Closes #223",2012-11-25T02:47:47Z,4,4,0,1,https://github.com/psf/requests/commit/f003025a37f9d546570e52f7d355c6f5d1a81617
+psf,requests,psf/requests,88177ec33fa0846aea0ecb121ffbb041c5f09cdc,"Finally resolve #1084
+
+Send body on redirect when POSTing or PUTing.",2013-03-28T03:30:00Z,3,2,1,1,https://github.com/psf/requests/commit/88177ec33fa0846aea0ecb121ffbb041c5f09cdc
+psf,requests,psf/requests,39fe0068aa657764778782ce4ca11d5e3ee08c66,"Fixed #1630, added test case for cookie persistence.",2013-09-28T07:33:05Z,13,13,0,2,https://github.com/psf/requests/commit/39fe0068aa657764778782ce4ca11d5e3ee08c66
+psf,requests,psf/requests,2bbd7ba1c2c5a56c0957be64b5f94f6a4b0243ca,Fixed #1711,2013-10-29T14:18:03Z,6,5,1,1,https://github.com/psf/requests/commit/2bbd7ba1c2c5a56c0957be64b5f94f6a4b0243ca
+psf,requests,psf/requests,c12122970abd651d1d9a05aa2a9535a53a9c041f,"Merge pull request #3580 from rbcarson/idna-thread-embedded-3578
+
+Add workaround to avoid implicit import of encodings.idna. Fixes #3578.",2016-09-17T07:18:59Z,5,5,0,1,https://github.com/psf/requests/commit/c12122970abd651d1d9a05aa2a9535a53a9c041f
+pallets,flask,pallets/flask,789715adb9949f58b7b0272bed1a58d7cd0fad30,"Fix config.from_pyfile on Python 3 (#2123)
+
+* Fix config.from_pyfile on Python 3
+
+Fix #2118
+
+* Support Python 2.6
+
+* Fix tests on Python 2",2016-12-26T02:50:47Z,27,24,3,3,https://github.com/pallets/flask/commit/789715adb9949f58b7b0272bed1a58d7cd0fad30
+pallets,flask,pallets/flask,c3d49e29ea42d2f468bc780c15683ca197b50d02,"show warning if session cookie domain is ip
+closes #2007",2016-12-04T18:29:11Z,26,25,1,2,https://github.com/pallets/flask/commit/c3d49e29ea42d2f468bc780c15683ca197b50d02
+pallets,flask,pallets/flask,c52e1b7388c17466a551391cdf81964bf0b7aef0,"Fix ValueError for some invalid Range requests
+
+fixes #2526",2017-11-23T09:32:13Z,32,30,2,3,https://github.com/pallets/flask/commit/c52e1b7388c17466a551391cdf81964bf0b7aef0
+scrapy,scrapy,scrapy/scrapy,4865a500b62fada0be245b9201339cc3d093c6d2,resolves #6876 (#6977),2025-10-09T20:14:34Z,12,10,2,1,https://github.com/scrapy/scrapy/commit/4865a500b62fada0be245b9201339cc3d093c6d2

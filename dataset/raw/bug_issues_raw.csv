@@ -157,6 +157,7 @@ psf,requests,239,Too many open files,closed,2011-11-05T12:37:30Z,2012-07-27T06:0
 psf,requests,223,Content-Length is missing,closed,2011-10-24T16:21:43Z,2012-11-25T03:54:30Z,63,Bug,https://github.com/psf/requests/issues/223
 psf,requests,78,Request_gzip = True,closed,2011-06-24T10:28:49Z,2011-07-24T02:35:50Z,3,Feature Request;Bug;Planned,https://github.com/psf/requests/issues/78
 psf,requests,56,Auth fail for private github repo,closed,2011-06-04T16:23:34Z,2011-07-24T02:55:20Z,6,Bug,https://github.com/psf/requests/issues/56
+scrapy,scrapy,7626,ScrapyCommand.help() is never called,closed,2026-06-15T09:51:36Z,2026-06-19T04:49:34Z,5,bug;cleanup,https://github.com/scrapy/scrapy/issues/7626
 scrapy,scrapy,7604,`strip_url()` strips :80 from the password,closed,2026-06-11T16:36:11Z,2026-06-15T06:41:57Z,2,bug,https://github.com/scrapy/scrapy/issues/7604
 scrapy,scrapy,7601,HttpxDownloadHandler drops proxy auth on retries/redirects,closed,2026-06-11T15:58:47Z,2026-06-17T09:56:24Z,0,bug,https://github.com/scrapy/scrapy/issues/7601
 scrapy,scrapy,7597,IMAGES_STORE_*_ACL are no longer used,closed,2026-06-11T08:01:01Z,2026-06-15T19:24:45Z,1,bug;S3;media pipelines,https://github.com/scrapy/scrapy/issues/7597
@@ -352,4 +353,3 @@ scrapy,scrapy,3995,ImagesPipeline does not follow redirection,closed,2019-08-31T
 scrapy,scrapy,3985,Contracts can't be written for callbacks that receive cb_kwargs,closed,2019-08-28T19:11:27Z,2019-09-07T23:23:16Z,2,bug,https://github.com/scrapy/scrapy/issues/3985
 scrapy,scrapy,3976,`ItemLoader` fields initialized from `item` are reprocessed,closed,2019-08-26T12:18:42Z,2019-10-28T09:53:54Z,9,bug,https://github.com/scrapy/scrapy/issues/3976
 scrapy,scrapy,3953,OSError when downloading a very long url,closed,2019-08-12T10:44:19Z,2019-09-16T12:04:07Z,9,bug;good first issue,https://github.com/scrapy/scrapy/issues/3953
-scrapy,scrapy,3938,Incorrect deprecation warning on S3FeedStorage,closed,2019-08-05T13:44:42Z,2025-01-08T10:37:42Z,4,bug,https://github.com/scrapy/scrapy/issues/3938
