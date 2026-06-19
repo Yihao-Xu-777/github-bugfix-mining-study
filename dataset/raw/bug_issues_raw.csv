@@ -1,0 +1,355 @@
+owner,repo,issue_number,title,state,created_at,closed_at,comments,labels,html_url
+pallets,flask,4355,Async/await， read file error: greenlet.error: cannot switch to a different thread,closed,2021-11-26T08:54:57Z,2021-12-23T00:36:53Z,4,bug,https://github.com/pallets/flask/issues/4355
+pallets,flask,4297,Blueprint.errorhandler restricts type of result function which avoids chaining,closed,2021-10-07T12:03:29Z,2022-03-15T15:37:17Z,6,bug;typing,https://github.com/pallets/flask/issues/4297
+pallets,flask,4295,error handler type check fails,closed,2021-10-06T21:01:05Z,2021-11-15T21:37:50Z,6,bug,https://github.com/pallets/flask/issues/4295
+pallets,flask,4037,The Blueprint(url_prefix) parameter is not working when using nesting blueprint,closed,2021-05-13T10:32:50Z,2021-05-13T22:27:48Z,0,bug;blueprints,https://github.com/pallets/flask/issues/4037
+pallets,flask,3776,request.endpoint always None in SessionInterface.open_session,closed,2020-10-03T11:42:30Z,2021-02-02T04:45:03Z,2,bug,https://github.com/pallets/flask/issues/3776
+pallets,flask,3523,Flask dev server not working with Python 3.6 on Anaconda,closed,2020-03-02T10:46:21Z,2020-04-03T12:42:51Z,6,bug;cli,https://github.com/pallets/flask/issues/3523
+pallets,flask,3320,Version tag mismatch in link to example projects from docs,closed,2019-08-01T00:14:39Z,2019-08-01T19:56:41Z,2,docs;bug,https://github.com/pallets/flask/issues/3320
+pallets,flask,3297,If arguments are re-written before flask is loaded it sees the original arguments on windows python 2.7,closed,2019-07-10T05:55:01Z,2019-07-10T19:42:59Z,2,bug;cli,https://github.com/pallets/flask/issues/3297
+pallets,flask,2743,Documentation search broken,closed,2018-04-29T10:57:08Z,2018-04-30T00:55:44Z,2,bug,https://github.com/pallets/flask/issues/2743
+pallets,flask,2735,flask.abort() behavioral change in debug mode,closed,2018-04-27T15:44:05Z,2018-04-28T14:01:55Z,4,bug,https://github.com/pallets/flask/issues/2735
+pallets,flask,2731,Flask 1.0 backwards-incompat with double-slash/no-slash re. #2629,closed,2018-04-27T13:12:55Z,2018-04-27T19:47:01Z,1,bug;blueprints,https://github.com/pallets/flask/issues/2731
+pallets,flask,2728,Wrong wheel for Flask 0.12.3 in PyPI,closed,2018-04-27T09:34:05Z,2018-04-30T01:27:34Z,10,bug;packaging,https://github.com/pallets/flask/issues/2728
+pallets,flask,2651,get_json's silent option cache None and causes weird side-effect,closed,2018-03-05T20:09:06Z,2018-04-09T10:00:42Z,7,bug;json,https://github.com/pallets/flask/issues/2651
+pallets,flask,2549,"""Request.is_xhr deprecated"" warning during jsonify()",closed,2017-12-11T17:54:11Z,2017-12-11T18:17:42Z,11,bug,https://github.com/pallets/flask/issues/2549
+pallets,flask,2526,Invalid range with send_file() and xsendfile causes ValueError,closed,2017-11-23T09:13:39Z,2017-11-24T23:44:49Z,0,bug,https://github.com/pallets/flask/issues/2526
+pallets,flask,2267,Flask error handler caching leads to inconsistent behavior,closed,2017-05-02T01:20:27Z,2017-06-05T13:34:49Z,1,bug,https://github.com/pallets/flask/issues/2267
+pallets,flask,2118,config.from_pyfile crashes on Python 3 when source isn't encoded in default encoding,closed,2016-12-20T03:01:50Z,2016-12-26T02:51:24Z,24,bug,https://github.com/pallets/flask/issues/2118
+pallets,flask,2033,failing test for safe_join in windows,closed,2016-09-21T09:41:07Z,2017-05-16T00:11:35Z,0,bug;testing,https://github.com/pallets/flask/issues/2033
+pallets,flask,2007,Prevent setting `SERVER_NAME` and `SESSION_COOKIE_DOMAIN` to an IP address,closed,2016-09-06T12:39:36Z,2017-05-14T05:13:57Z,13,discussion;bug,https://github.com/pallets/flask/issues/2007
+pallets,flask,1995,No response and No exception traceback when render_template failed and DEBUG=True,closed,2016-08-27T06:14:30Z,2017-05-29T19:50:13Z,22,blocker;bug,https://github.com/pallets/flask/issues/1995
+pallets,flask,1980,"""Larger Applications"" docs don't play nicely with flask run",closed,2016-08-09T17:51:00Z,2016-09-11T16:05:28Z,7,docs;bug,https://github.com/pallets/flask/issues/1980
+pallets,flask,1911,Wrong import json library,closed,2016-06-14T09:02:06Z,2017-05-22T19:37:58Z,24,bug;good first issue;json,https://github.com/pallets/flask/issues/1911
+pallets,flask,1902,Import error with some examples,closed,2016-06-09T20:35:18Z,2016-08-22T18:53:44Z,30,docs;bug;cli,https://github.com/pallets/flask/issues/1902
+pallets,flask,1893,Travis 3.3-devel job fails with error about urllib2 in Werkzeug,closed,2016-06-07T16:28:49Z,2016-06-07T17:32:48Z,3,bug;testing,https://github.com/pallets/flask/issues/1893
+pallets,flask,1877,jsonify no longer causes Content-Length to be set on returned Response object,closed,2016-06-03T08:24:29Z,2017-05-30T20:47:38Z,13,bug,https://github.com/pallets/flask/issues/1877
+pallets,flask,1837,Setting error handler for unknown code fails,closed,2016-05-31T07:51:12Z,2017-06-01T01:10:00Z,23,docs;bug,https://github.com/pallets/flask/issues/1837
+pallets,flask,1829,"""[Errno 2] No such file or directory"" on flask run with FLASK_DEBUG=1",closed,2016-05-29T19:03:30Z,2016-12-26T18:59:20Z,30,bug;cli,https://github.com/pallets/flask/issues/1829
+pallets,flask,1427,Bug in send_file with temp files,closed,2015-04-10T16:52:33Z,2016-06-03T16:17:04Z,12,bug,https://github.com/pallets/flask/issues/1427
+pallets,flask,1406,Generic error handler for any exception,closed,2015-03-29T15:54:55Z,2015-03-29T17:16:25Z,8,bug,https://github.com/pallets/flask/issues/1406
+pallets,flask,1348,sessions not saved when streaming,closed,2015-02-08T19:03:16Z,2017-06-03T19:26:15Z,3,bug;session,https://github.com/pallets/flask/issues/1348
+pallets,flask,1330,Method is_json does not support capital letters in mimetype,closed,2015-01-28T15:34:45Z,2015-01-29T09:24:38Z,5,bug,https://github.com/pallets/flask/issues/1330
+pallets,flask,1173,python3 -mpdb myflaskapp.py fon ubuntu 14.04,closed,2014-09-10T17:17:49Z,2014-10-19T18:20:57Z,7,bug,https://github.com/pallets/flask/issues/1173
+pallets,flask,1169,"BUG in ""send_file"" and ""send_from_directory""",closed,2014-09-04T10:38:47Z,2015-11-07T09:15:11Z,40,bug,https://github.com/pallets/flask/issues/1169
+pallets,flask,1167,Randomly Unresponsive After Strange Character Requests,closed,2014-09-03T20:37:59Z,2014-10-19T18:23:11Z,8,bug,https://github.com/pallets/flask/issues/1167
+pallets,flask,1124,"CLI: ""flask"" command help doesn't list custom commands",closed,2014-07-16T08:39:22Z,2016-05-26T19:29:49Z,11,bug;cli,https://github.com/pallets/flask/issues/1124
+pallets,flask,941,Registering a handler for HTTPException has no effect,closed,2014-01-03T18:58:20Z,2017-05-23T19:55:33Z,20,blocker;bug,https://github.com/pallets/flask/issues/941
+psf,requests,6544,Conflicting requirements for urllib3,closed,2023-10-06T20:05:38Z,2023-10-06T22:34:25Z,1,Bug,https://github.com/psf/requests/issues/6544
+psf,requests,6104,ValueError when calling requests.get on windows systems.,closed,2022-04-06T17:14:25Z,2022-06-01T17:38:00Z,14,Bug;Contributor Friendly,https://github.com/psf/requests/issues/6104
+psf,requests,6027,Proxy authentication bug,closed,2022-01-03T22:12:00Z,2022-01-04T16:04:25Z,12,Bug,https://github.com/psf/requests/issues/6027
+psf,requests,5921,requests should ignore REQUESTS_CA_BUNDLE when session.verify is False,closed,2021-09-01T12:18:14Z,2021-09-04T21:37:49Z,4,Bug;Breaking API Change,https://github.com/psf/requests/issues/5921
+psf,requests,5891,Session requests are ~70% slower in version 2.26.0,closed,2021-07-28T16:43:39Z,2021-12-30T21:40:46Z,5,Bug,https://github.com/psf/requests/issues/5891
+psf,requests,5888,Manually set Proxy-Authorization header is always removed in 2.26,closed,2021-07-27T14:24:46Z,2021-11-24T19:28:59Z,5,Bug,https://github.com/psf/requests/issues/5888
+psf,requests,5855,proxy URLs without schemes break under Python 3.9,closed,2021-07-01T23:56:49Z,2021-12-30T21:36:55Z,6,Bug,https://github.com/psf/requests/issues/5855
+psf,requests,4986,Doctest fails (7 out of 11),closed,2019-02-17T18:24:38Z,2021-08-07T02:26:11Z,2,Bug;PR(s) available,https://github.com/psf/requests/issues/4986
+psf,requests,4748,case-insensitive charset handling,closed,2018-07-24T14:28:26Z,2018-07-24T16:46:20Z,4,Bug,https://github.com/psf/requests/issues/4748
+psf,requests,4746,urllib3 LocationParseError uncaught by requests,closed,2018-07-23T09:43:33Z,2018-10-01T02:25:44Z,2,Bug,https://github.com/psf/requests/issues/4746
+psf,requests,4716,Should Authorization header be cleared in https -> http redirect?,closed,2018-06-27T09:06:49Z,2018-09-14T12:08:05Z,4,Bug,https://github.com/psf/requests/issues/4716
+psf,requests,4649,utf-8 passwords in url don't work,closed,2018-05-16T16:25:58Z,2018-10-03T16:11:33Z,7,Bug,https://github.com/psf/requests/issues/4649
+psf,requests,4592,Malformed `Set-Cookie` containing CRLF does not cause an error,closed,2018-04-17T02:42:53Z,2024-05-19T19:10:13Z,7,Bug,https://github.com/psf/requests/issues/4592
+psf,requests,4443,fragment not append on redirect,closed,2018-01-01T13:57:19Z,2018-01-21T18:53:24Z,5,Bug,https://github.com/psf/requests/issues/4443
+psf,requests,4401,Find cause of status code 0,closed,2017-11-27T10:39:30Z,2017-11-27T21:52:45Z,6,Bug;Propose Close;Needs More Information,https://github.com/psf/requests/issues/4401
+psf,requests,4392,Streamed request with preset Host header sends two Host headers,closed,2017-11-20T19:04:03Z,2024-05-19T18:59:48Z,8,Bug,https://github.com/psf/requests/issues/4392
+psf,requests,4362,Redirect resolved even though allow_redirects is set to False causing exception for unsupported connection adapter,closed,2017-10-31T13:11:11Z,2021-12-29T02:32:57Z,6,Bug,https://github.com/psf/requests/issues/4362
+psf,requests,4275,Requests tries to resolve `user:pass@host` on OS X,closed,2017-09-05T10:13:27Z,2018-01-16T14:07:27Z,1,Bug;PR(s) Wanted,https://github.com/psf/requests/issues/4275
+psf,requests,4030,fix pypi page,closed,2017-05-17T14:38:38Z,2017-05-18T01:41:01Z,3,Bug;Planned;Contributor Friendly;Documentation,https://github.com/psf/requests/issues/4030
+psf,requests,3696,A whitespace at the start of Url causes error on request,closed,2016-11-16T16:05:10Z,2016-11-16T18:38:12Z,4,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3696
+psf,requests,3689,security extras need to be updated,closed,2016-11-16T01:03:01Z,2016-11-16T10:33:47Z,2,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3689
+psf,requests,3683,URL has an invalid label.,closed,2016-11-15T14:50:57Z,2016-11-30T15:07:22Z,29,Bug,https://github.com/psf/requests/issues/3683
+psf,requests,3597,TypeError in MockRequest when 'Host' header set to bytestring,closed,2016-09-25T06:04:14Z,2016-09-29T07:09:41Z,3,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3597
+psf,requests,3578,"""LookupError: unknown encoding: idna"" in worker threads, under embedded Python 3.5",closed,2016-09-16T22:43:02Z,2016-09-17T07:19:01Z,5,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3578
+psf,requests,3518,ALL_PROXY is incorrectly preferred to HTTP(S)_PROXY,closed,2016-08-17T12:04:32Z,2016-08-25T12:45:16Z,2,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3518
+psf,requests,3490,Remove header in middle of redirection,closed,2016-08-09T18:24:05Z,2016-08-12T19:57:40Z,8,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3490
+psf,requests,3481,Error with decode_unicode=True on streamed response,closed,2016-08-09T07:58:53Z,2016-09-11T09:11:16Z,9,Bug,https://github.com/psf/requests/issues/3481
+psf,requests,3359,Uncertain about content/text vs iter_content(decode_unicode=True/False),closed,2016-06-22T00:19:56Z,2016-09-24T17:01:11Z,15,Bug,https://github.com/psf/requests/issues/3359
+psf,requests,3090,Session.close() doesn't work with proxies,closed,2016-04-13T14:29:33Z,2016-04-15T13:36:43Z,4,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3090
+psf,requests,3068,Response read hangs,closed,2016-03-27T20:57:08Z,2016-03-28T15:35:07Z,5,Bug,https://github.com/psf/requests/issues/3068
+psf,requests,3066,auth and data set results in invalid http header,closed,2016-03-25T11:30:41Z,2016-12-08T12:33:12Z,12,Bug,https://github.com/psf/requests/issues/3066
+psf,requests,3028,"""in"" operation on resp.cookies should not raise CookieConflictError",closed,2016-03-03T12:37:56Z,2016-04-16T04:05:38Z,3,Bug;Contributor Friendly,https://github.com/psf/requests/issues/3028
+psf,requests,3009,"Inspecting 'response.ok' with non-ascii HTTP status ""reason"" content causes UnicodeDecodeError",closed,2016-02-12T23:09:13Z,2016-08-05T00:10:35Z,12,Bug,https://github.com/psf/requests/issues/3009
+psf,requests,2998,Requests default to environment CA even when there's a session-set CA,closed,2016-02-05T23:16:51Z,2016-02-10T08:46:49Z,4,Bug,https://github.com/psf/requests/issues/2998
+psf,requests,2997,allow_redirects=True for one get affects the next one,closed,2016-02-05T19:41:55Z,2016-02-05T22:53:55Z,7,Bug,https://github.com/psf/requests/issues/2997
+psf,requests,2949,Session's Authorization header isn't sent on redirect,closed,2015-12-28T21:44:14Z,2021-09-08T22:43:04Z,37,Bug,https://github.com/psf/requests/issues/2949
+psf,requests,2935,KeyError in connectionpool?,closed,2015-12-18T00:38:06Z,2016-03-09T08:17:03Z,44,Bug;Needs More Information,https://github.com/psf/requests/issues/2935
+psf,requests,2925,Deadlock caused by local import in different thread.,closed,2015-12-11T18:35:38Z,2024-05-20T14:35:55Z,16,Bug;Planned,https://github.com/psf/requests/issues/2925
+psf,requests,2844,_encode_params return bytes that break urlencode,closed,2015-10-23T11:27:22Z,2015-10-23T12:24:36Z,8,Bug;Contributor Friendly,https://github.com/psf/requests/issues/2844
+psf,requests,2756,Json supersedes data in prepare_body,closed,2015-09-04T23:44:09Z,2015-10-06T14:52:47Z,4,Bug;Contributor Friendly,https://github.com/psf/requests/issues/2756
+psf,requests,2708,user-agent not sent in CONNECT makes the request fail (proxy is used),closed,2015-08-05T09:29:13Z,2024-05-20T14:36:16Z,15,Bug,https://github.com/psf/requests/issues/2708
+psf,requests,2707,parse_header_links fails for momento link headers,closed,2015-08-05T08:05:52Z,2016-09-23T06:43:09Z,4,Bug,https://github.com/psf/requests/issues/2707
+psf,requests,2620,Connect Error or Timeout Error,closed,2015-06-01T14:00:42Z,2015-06-02T20:53:50Z,6,Bug;Planned,https://github.com/psf/requests/issues/2620
+psf,requests,2599,"Auth handler should be calling close, not release_conn",closed,2015-05-13T15:10:24Z,2015-05-14T06:15:18Z,2,Bug;Planned;Contributor Friendly,https://github.com/psf/requests/issues/2599
+psf,requests,2540,MisssingSchema error message does not handle unicode input correctly,closed,2015-04-08T00:56:52Z,2015-04-11T19:11:01Z,3,Bug;Contributor Friendly,https://github.com/psf/requests/issues/2540
+psf,requests,2530,"__build__ out of sync? Still at 0x020503, looks like 2.5.3 rather than 2.6.0",closed,2015-04-05T21:21:27Z,2015-04-06T21:54:22Z,1,Bug,https://github.com/psf/requests/issues/2530
+psf,requests,2503,Redirect doesn't pass all parameters,closed,2015-03-17T13:41:37Z,2015-05-03T15:06:00Z,4,Bug,https://github.com/psf/requests/issues/2503
+psf,requests,2455,"CERTIFICATE_VERIFY_FAILED with 2.5.2, works with 2.5.1",closed,2015-02-24T01:11:01Z,2015-05-31T12:57:28Z,111,Bug;Planned,https://github.com/psf/requests/issues/2455
+psf,requests,2345,Using RecentlyUsedContainer for session cache breaks pickling,closed,2014-11-16T15:52:15Z,2014-11-30T19:12:43Z,5,Bug,https://github.com/psf/requests/issues/2345
+psf,requests,2336,Timeout for connecting to proxy,closed,2014-11-13T12:10:06Z,2015-03-02T09:49:24Z,38,Bug,https://github.com/psf/requests/issues/2336
+psf,requests,2255,Session requests should respect verify=False,closed,2014-09-29T01:06:48Z,2015-08-31T09:45:01Z,20,Bug,https://github.com/psf/requests/issues/2255
+psf,requests,2250,Link header parsing breaks if attribute value has commas,closed,2014-09-25T20:01:41Z,2014-10-10T18:30:18Z,5,Bug;Contributor Friendly,https://github.com/psf/requests/issues/2250
+psf,requests,2229,full URL sent instead of path when using https proxy,closed,2014-09-16T23:23:44Z,2015-05-03T15:12:33Z,9,Bug,https://github.com/psf/requests/issues/2229
+psf,requests,2228,Documentation examples.,closed,2014-09-16T15:15:50Z,2021-11-28T03:00:28Z,15,Bug;Contributor Friendly;Documentation,https://github.com/psf/requests/issues/2228
+psf,requests,2169,Connection keep alive issue,closed,2014-08-18T13:51:38Z,2014-08-29T14:24:23Z,26,Bug;Please Review,https://github.com/psf/requests/issues/2169
+psf,requests,2144,socket.error exception not caught/wrapped in a requests exception (ConnectionError perhaps?),closed,2014-07-22T10:23:48Z,2014-07-27T13:59:08Z,1,Bug;Contributor Friendly,https://github.com/psf/requests/issues/2144
+psf,requests,2063,Mutating Session.proxies does not work,closed,2014-05-25T19:42:09Z,2014-05-28T08:06:33Z,22,Bug,https://github.com/psf/requests/issues/2063
+psf,requests,2003,auth kwarg cannot be used to authenticate an HTTPS request through a HTTP proxy,closed,2014-04-15T04:18:58Z,2016-12-17T17:00:48Z,7,Bug;Planned;Breaking API Change,https://github.com/psf/requests/issues/2003
+psf,requests,1871,Our use of urllib3's ConnectionPools is not threadsafe.,closed,2014-01-20T11:09:18Z,2018-02-24T14:55:18Z,27,Bug;Planned,https://github.com/psf/requests/issues/1871
+psf,requests,1767,HTTP Basic Auth credentials extracted from URL are %-encoded,closed,2013-12-01T09:22:15Z,2013-12-04T01:36:00Z,2,Bug;Fixed,https://github.com/psf/requests/issues/1767
+psf,requests,1755,Streaming uploads with HTTPBasicAuth causes stuck on resending the request,closed,2013-11-24T12:30:06Z,2013-12-05T23:04:56Z,5,Bug;Fixed,https://github.com/psf/requests/issues/1755
+psf,requests,1746,Don't lowercase the whole URL when opening a connection,closed,2013-11-19T08:53:32Z,2013-12-05T23:05:08Z,8,Bug;Fixed,https://github.com/psf/requests/issues/1746
+psf,requests,1732,SNI support broken on Python 2.X in 2.0.1.,closed,2013-11-09T08:57:36Z,2013-12-05T23:05:18Z,3,Bug;Fixed,https://github.com/psf/requests/issues/1732
+psf,requests,1711,Regression 2.0.1: Using MozillaCookieJar does not work,closed,2013-10-29T12:27:21Z,2013-12-04T01:33:33Z,4,Bug;Fixed,https://github.com/psf/requests/issues/1711
+psf,requests,1703,proxy with authentication fails in requests 2.0,closed,2013-10-25T08:30:03Z,2013-12-05T23:05:28Z,11,Bug;Fixed,https://github.com/psf/requests/issues/1703
+psf,requests,1685,Possible Memory Leak,closed,2013-10-17T17:03:10Z,2016-04-16T04:18:33Z,54,Bug,https://github.com/psf/requests/issues/1685
+psf,requests,1655,Session hooks broken,closed,2013-10-07T10:24:32Z,2013-12-04T01:33:42Z,7,Bug;Contributor Friendly;Fixed,https://github.com/psf/requests/issues/1655
+psf,requests,1648,"Header ""Transfer-Encoding: chunked"" set even if Content-Length is provided which causes body to not actually get chunked",closed,2013-10-04T00:02:56Z,2017-03-02T16:28:35Z,52,Bug;Breaking API Change,https://github.com/psf/requests/issues/1648
+psf,requests,1642,Requests doesn't clean up on failed streaming uploads.,closed,2013-10-02T12:33:03Z,2013-12-05T23:06:26Z,2,Bug,https://github.com/psf/requests/issues/1642
+psf,requests,1630,Cookies not persisted when set via functional API.,closed,2013-09-27T08:50:44Z,2013-10-07T23:22:49Z,7,Bug;Contributor Friendly,https://github.com/psf/requests/issues/1630
+psf,requests,1622,Requests 2.0.0 breaks SSL proxying via https_port of Squid.,closed,2013-09-25T03:16:36Z,2015-01-19T09:25:49Z,40,Bug;Propose Close,https://github.com/psf/requests/issues/1622
+psf,requests,1572,urllib3 exceptions passing through requests API,closed,2013-09-03T09:36:19Z,2015-10-05T14:09:46Z,13,Bug;Planned;Contributor Friendly,https://github.com/psf/requests/issues/1572
+psf,requests,1561,Header keys lose their case,closed,2013-08-30T14:43:45Z,2017-01-09T16:17:38Z,11,Bug;Planned,https://github.com/psf/requests/issues/1561
+psf,requests,1434,"stream_decode_response_unicode fails in Python 3 at rv = decoder.decode('', final=True)",closed,2013-06-25T15:17:55Z,2013-06-26T07:38:03Z,3,Bug;Contributor Friendly,https://github.com/psf/requests/issues/1434
+psf,requests,1397,bug report,closed,2013-05-30T18:41:17Z,2013-08-17T06:35:52Z,10,Bug,https://github.com/psf/requests/issues/1397
+psf,requests,1336,Set cookie on 401,closed,2013-04-30T03:19:58Z,2013-08-15T07:59:47Z,47,Bug,https://github.com/psf/requests/issues/1336
+psf,requests,1335,Content-Length header is duplicated on Python3,closed,2013-04-30T02:58:10Z,2013-06-08T09:57:00Z,6,Bug;Contributor Friendly,https://github.com/psf/requests/issues/1335
+psf,requests,1324,Session with CookieJar/LWPCookieJar cause AttributeError,closed,2013-04-25T01:22:58Z,2013-04-26T10:57:36Z,3,Bug,https://github.com/psf/requests/issues/1324
+psf,requests,1261,Issue arising from #1190,closed,2013-03-23T01:21:55Z,2013-03-27T18:31:37Z,11,Bug,https://github.com/psf/requests/issues/1261
+psf,requests,1189,Multiple Cookies on Redirect,closed,2013-02-13T23:09:02Z,2013-02-17T01:17:07Z,8,Bug,https://github.com/psf/requests/issues/1189
+psf,requests,1124,"SSLError from imgur API, however proper cert appears via Chrome",closed,2013-01-22T03:01:58Z,2013-02-10T22:37:55Z,12,Bug,https://github.com/psf/requests/issues/1124
+psf,requests,1102,address compromised TURKTRUST certificates,closed,2013-01-15T11:30:17Z,2013-01-17T10:53:19Z,6,Bug,https://github.com/psf/requests/issues/1102
+psf,requests,1096,OAuth 1 requests with BODY signature_type send no body data and set Content-Length: 0 ,closed,2013-01-11T19:44:55Z,2013-02-10T22:55:13Z,1,Bug;Contributor Friendly,https://github.com/psf/requests/issues/1096
+psf,requests,1084,POST and PUT on 307 redirect will re-POST without body,closed,2013-01-04T16:55:35Z,2013-03-31T05:21:52Z,13,Bug,https://github.com/psf/requests/issues/1084
+psf,requests,1029,"Since 1.0, seeing a large amount of ""Cannot assign requested address"" socket.errors",closed,2012-12-18T00:56:01Z,2012-12-18T02:51:40Z,8,Bug,https://github.com/psf/requests/issues/1029
+psf,requests,910,POST with json data and oauth auth_header signature_type not working,closed,2012-10-25T17:29:41Z,2013-04-01T18:40:16Z,32,Bug,https://github.com/psf/requests/issues/910
+psf,requests,875,Keep-alive doesn't work over http proxy,closed,2012-10-01T16:28:39Z,2012-12-03T10:09:18Z,11,Bug,https://github.com/psf/requests/issues/875
+psf,requests,862,digest authentication fails because of wrongly nonce-count,closed,2012-09-20T06:47:59Z,2012-11-17T11:04:27Z,5,Bug,https://github.com/psf/requests/issues/862
+psf,requests,851,"SSL ""unknown protocol"" is returned when it should be ""certificate verify failed""",closed,2012-09-13T02:17:35Z,2013-01-21T20:23:07Z,18,Bug;Contributor Friendly,https://github.com/psf/requests/issues/851
+psf,requests,844,umbrella ticket to resolve iteration / read size / chunked encoding questions,closed,2012-09-07T03:54:10Z,2015-01-19T09:29:14Z,52,Bug;Contributor Friendly;Propose Close,https://github.com/psf/requests/issues/844
+psf,requests,771,socket leak (suspected due to redirection),closed,2012-08-10T12:21:29Z,2012-11-17T11:17:01Z,47,Bug,https://github.com/psf/requests/issues/771
+psf,requests,747,"requests.{post,patch} set Content-Type to application/x-www-form-urlencoded even when ``data`` arg is a string",closed,2012-07-30T20:18:22Z,2012-08-04T15:39:39Z,3,Bug;Contributor Friendly,https://github.com/psf/requests/issues/747
+psf,requests,738,pip install error on py3k,closed,2012-07-25T05:47:28Z,2012-07-27T06:11:43Z,7,Bug;Contributor Friendly,https://github.com/psf/requests/issues/738
+psf,requests,697,Catch UnicodeError coming from encodings/idna.py,closed,2012-06-26T18:31:32Z,2012-08-13T21:14:51Z,6,Bug;Contributor Friendly,https://github.com/psf/requests/issues/697
+psf,requests,649,CaseInsensitiveDict __setitem__ faulty for differing-case keys,closed,2012-06-03T00:59:23Z,2012-07-27T05:54:43Z,4,Bug;Contributor Friendly,https://github.com/psf/requests/issues/649
+psf,requests,639,safe mode doesn't work when not returning response,closed,2012-05-28T11:28:42Z,2012-12-18T20:15:20Z,3,Bug;Contributor Friendly,https://github.com/psf/requests/issues/639
+psf,requests,637,Dict data is not being properly urlencoded,closed,2012-05-27T00:01:10Z,2012-06-15T18:32:14Z,7,Bug,https://github.com/psf/requests/issues/637
+psf,requests,627,Failure to get through digest page which redirects to temporary AWS url,closed,2012-05-22T13:57:29Z,2012-11-27T18:36:34Z,31,Bug;Contributor Friendly,https://github.com/psf/requests/issues/627
+psf,requests,606,Allow specifying the ssl protocol version to use,closed,2012-05-11T17:32:54Z,2012-07-27T06:10:49Z,20,Bug,https://github.com/psf/requests/issues/606
+psf,requests,605,async broken on Windows,closed,2012-05-10T21:41:00Z,2012-05-10T23:35:07Z,2,Bug,https://github.com/psf/requests/issues/605
+psf,requests,602,requests.head redirect timeout (on only linux environments?),closed,2012-05-09T19:55:44Z,2012-07-27T06:14:15Z,7,Bug;Planned,https://github.com/psf/requests/issues/602
+psf,requests,539,iter_lines small chunks,closed,2012-04-06T15:04:40Z,2012-05-08T05:09:24Z,15,Bug,https://github.com/psf/requests/issues/539
+psf,requests,537,requests.get throws TooManyRedirects in safe_mode,closed,2012-04-06T01:50:52Z,2012-05-04T01:49:58Z,3,Bug,https://github.com/psf/requests/issues/537
+psf,requests,520,requests leaves a hanging connection for each request,closed,2012-03-29T07:19:00Z,2012-08-06T04:38:28Z,62,Bug,https://github.com/psf/requests/issues/520
+psf,requests,500,Async requests don't honor timeout param,closed,2012-03-20T05:07:44Z,2012-05-10T22:05:42Z,13,Bug,https://github.com/psf/requests/issues/500
+psf,requests,498,App Engine Fixes,closed,2012-03-19T02:03:45Z,2012-07-27T05:29:28Z,30,Bug;Contributor Friendly;GAE Support,https://github.com/psf/requests/issues/498
+psf,requests,496,Response.ok raises Timeout Exception in safe_mode,closed,2012-03-19T00:21:18Z,2012-04-06T01:45:25Z,2,Bug;Contributor Friendly,https://github.com/psf/requests/issues/496
+psf,requests,458,"requests should send ""Connection: close"" if keep-alive is disabled",closed,2012-02-26T23:17:29Z,2012-06-15T18:41:19Z,6,Bug,https://github.com/psf/requests/issues/458
+psf,requests,424,Unicode header dict values cause unhandled exception,closed,2012-02-13T21:27:39Z,2012-07-27T06:00:53Z,1,Bug,https://github.com/psf/requests/issues/424
+psf,requests,353,'allow_redirects' cause a post request to hang,closed,2012-01-11T11:06:54Z,2012-07-27T06:05:18Z,6,Bug,https://github.com/psf/requests/issues/353
+psf,requests,339,"ConnectionError in requests, not urllib2",closed,2012-01-06T05:18:41Z,2012-04-12T22:53:39Z,2,Bug;Contributor Friendly,https://github.com/psf/requests/issues/339
+psf,requests,338,"LookupError in requests, not in urllib2",closed,2012-01-06T05:07:45Z,2012-03-16T01:15:28Z,11,Bug;Contributor Friendly,https://github.com/psf/requests/issues/338
+psf,requests,337,"TooManyRedirects in requests, not in urllib2",closed,2012-01-06T05:06:43Z,2012-08-25T15:09:13Z,9,Bug;Contributor Friendly,https://github.com/psf/requests/issues/337
+psf,requests,335,CookieError in requests and not in urllib2,closed,2012-01-06T04:30:34Z,2012-03-09T16:58:39Z,29,Bug;Contributor Friendly,https://github.com/psf/requests/issues/335
+psf,requests,296,ConnectionError with Python 2.5 and SSL site,closed,2011-11-29T14:20:07Z,2012-01-23T08:06:13Z,10,Bug,https://github.com/psf/requests/issues/296
+psf,requests,293,Proxy authentication broken with 0.76 -> 0.83 upgrade.,closed,2011-11-28T17:25:20Z,2012-03-31T07:16:31Z,4,Bug;Contributor Friendly,https://github.com/psf/requests/issues/293
+psf,requests,291,models.Request.sent never set to `True`?,closed,2011-11-27T16:16:40Z,2011-11-27T16:29:58Z,1,Bug,https://github.com/psf/requests/issues/291
+psf,requests,286,Session Cookie doublequotes bug,closed,2011-11-23T17:47:01Z,2012-01-30T06:15:36Z,11,Bug,https://github.com/psf/requests/issues/286
+psf,requests,239,Too many open files,closed,2011-11-05T12:37:30Z,2012-07-27T06:07:41Z,81,Bug;Contributor Friendly,https://github.com/psf/requests/issues/239
+psf,requests,223,Content-Length is missing,closed,2011-10-24T16:21:43Z,2012-11-25T03:54:30Z,63,Bug,https://github.com/psf/requests/issues/223
+psf,requests,78,Request_gzip = True,closed,2011-06-24T10:28:49Z,2011-07-24T02:35:50Z,3,Feature Request;Bug;Planned,https://github.com/psf/requests/issues/78
+psf,requests,56,Auth fail for private github repo,closed,2011-06-04T16:23:34Z,2011-07-24T02:55:20Z,6,Bug,https://github.com/psf/requests/issues/56
+scrapy,scrapy,7604,`strip_url()` strips :80 from the password,closed,2026-06-11T16:36:11Z,2026-06-15T06:41:57Z,2,bug,https://github.com/scrapy/scrapy/issues/7604
+scrapy,scrapy,7601,HttpxDownloadHandler drops proxy auth on retries/redirects,closed,2026-06-11T15:58:47Z,2026-06-17T09:56:24Z,0,bug,https://github.com/scrapy/scrapy/issues/7601
+scrapy,scrapy,7597,IMAGES_STORE_*_ACL are no longer used,closed,2026-06-11T08:01:01Z,2026-06-15T19:24:45Z,1,bug;S3;media pipelines,https://github.com/scrapy/scrapy/issues/7597
+scrapy,scrapy,7552,'scrapy shell' command starts crawling,closed,2026-05-26T11:51:11Z,2026-06-10T19:59:04Z,9,bug,https://github.com/scrapy/scrapy/issues/7552
+scrapy,scrapy,7445,TLS context re-use regression in 2.15 leads to HTTP 421s for different hostnames on the same server,closed,2026-04-21T08:43:37Z,2026-04-22T14:01:03Z,1,bug;https,https://github.com/scrapy/scrapy/issues/7445
+scrapy,scrapy,7426,Regression in Scrapy 2.15.0: FEED_EXPORTERS keys with dots fail with NameError in getwithbase(),closed,2026-04-13T09:55:30Z,2026-04-22T14:00:41Z,1,bug,https://github.com/scrapy/scrapy/issues/7426
+scrapy,scrapy,7158,Scrapy 2.13 slower than 2.12 about 2–3×,closed,2025-11-20T12:43:41Z,2026-01-05T11:55:59Z,9,bug;performance,https://github.com/scrapy/scrapy/issues/7158
+scrapy,scrapy,7060,Fix flaky `test_download_with_proxy_https_timeout()`,closed,2025-09-28T12:05:01Z,2026-02-13T08:45:11Z,25,bug;help wanted;https;CI,https://github.com/scrapy/scrapy/issues/7060
+scrapy,scrapy,7057,spider_idle signal sent before item_error signal when DNSLookupError occurs in FilesPipeline,closed,2025-09-26T04:38:34Z,2025-09-29T08:41:24Z,3,bug;needs more info,https://github.com/scrapy/scrapy/issues/7057
+scrapy,scrapy,7042,MetaRefreshMiddleware does not respect `<base>` tag for relative URLs,closed,2025-09-04T08:07:25Z,2025-09-10T13:17:17Z,3,bug,https://github.com/scrapy/scrapy/issues/7042
+scrapy,scrapy,7003,TestSendCatchLogAsyncAsyncio failures,closed,2025-08-11T10:07:39Z,2025-08-18T15:00:24Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/7003
+scrapy,scrapy,6996,Tests that install a root logging handler,closed,2025-08-08T07:33:18Z,2025-10-06T09:19:36Z,1,bug;CI,https://github.com/scrapy/scrapy/issues/6996
+scrapy,scrapy,6972,TestPriorityQueue::test_queue_push_pop_priorities() fails on 32-bit,closed,2025-07-28T12:38:42Z,2025-07-28T18:37:47Z,5,bug;CI,https://github.com/scrapy/scrapy/issues/6972
+scrapy,scrapy,6915,ipython tips break scrapy shell help,closed,2025-06-26T06:47:55Z,2025-08-01T09:01:41Z,5,bug,https://github.com/scrapy/scrapy/issues/6915
+scrapy,scrapy,6908,TestEngine::test_short_timeout() failure,closed,2025-06-23T18:28:21Z,2025-07-01T12:24:10Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/6908
+scrapy,scrapy,6894,`FileFeedStorage` ignores the drive letter on Windows,closed,2025-06-20T07:31:46Z,2025-06-23T16:56:30Z,2,bug;Windows,https://github.com/scrapy/scrapy/issues/6894
+scrapy,scrapy,6878,`pytest.skip` no longer works in twisted.trial unittests,closed,2025-06-08T18:07:15Z,2025-06-09T07:53:43Z,0,bug;CI;upstream issue,https://github.com/scrapy/scrapy/issues/6878
+scrapy,scrapy,6876,Non-typing assert in getdictorlist(),closed,2025-06-08T15:13:05Z,2025-10-09T20:14:35Z,9,bug;good first issue,https://github.com/scrapy/scrapy/issues/6876
+scrapy,scrapy,6861,Results of errbacks for downloader errors are discarded,closed,2025-06-05T07:06:32Z,2025-06-05T13:02:32Z,5,bug,https://github.com/scrapy/scrapy/issues/6861
+scrapy,scrapy,6859,“DeprecationWarning: Attempting to mutate a Context after a Connection was created” with pyOpenSSL 25.1.0,closed,2025-06-04T20:09:28Z,2026-03-25T10:42:45Z,11,bug;help wanted,https://github.com/scrapy/scrapy/issues/6859
+scrapy,scrapy,6857,ExecuteEngine.close() assumes self.downloader has been defined,closed,2025-06-04T10:32:07Z,2025-06-06T11:02:16Z,0,bug,https://github.com/scrapy/scrapy/issues/6857
+scrapy,scrapy,6834,Race condition in `TestBenchCommand` on Windows,closed,2025-05-28T09:23:29Z,2025-07-02T19:35:58Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/6834
+scrapy,scrapy,6820,Recheck (and re-fix?) open_spider exception handling,closed,2025-05-21T17:23:24Z,2026-02-19T10:22:01Z,2,bug,https://github.com/scrapy/scrapy/issues/6820
+scrapy,scrapy,6812,Typo in the Docs,closed,2025-05-19T03:03:26Z,2025-05-20T05:51:32Z,2,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/6812
+scrapy,scrapy,6784,Engine hangs if _schedule_request() raised an exception,closed,2025-05-09T15:17:57Z,2025-06-23T17:36:55Z,3,bug,https://github.com/scrapy/scrapy/issues/6784
+scrapy,scrapy,6783,`test_close_during_start_iteration()` can fail with a Task error about `_start_request_processing()`,closed,2025-05-08T09:36:02Z,2025-06-23T17:36:55Z,4,bug,https://github.com/scrapy/scrapy/issues/6783
+scrapy,scrapy,6665,Make sure all type annotations relevant to web-poet are resolvable,closed,2025-02-11T17:12:29Z,2025-02-14T15:40:07Z,0,bug;enhancement,https://github.com/scrapy/scrapy/issues/6665
+scrapy,scrapy,6644,Unable to use CrawlerProcess to run a spider as a script to debug it at breakpoints,closed,2025-02-01T08:40:44Z,2025-02-04T12:49:23Z,6,bug;not reproducible;upstream issue;asyncio,https://github.com/scrapy/scrapy/issues/6644
+scrapy,scrapy,6636,Reactor info logged twice,closed,2025-01-28T18:29:48Z,2025-02-06T10:47:41Z,0,bug;logging,https://github.com/scrapy/scrapy/issues/6636
+scrapy,scrapy,6632,Installed Scrapy in a new environment through Anaconda but can't run bench,closed,2025-01-25T09:57:07Z,2025-01-27T10:21:32Z,3,bug,https://github.com/scrapy/scrapy/issues/6632
+scrapy,scrapy,6619,test_s3_export fails with boto3 >= 1.36.0,closed,2025-01-18T16:25:28Z,2025-01-22T11:14:34Z,5,bug;good first issue;CI,https://github.com/scrapy/scrapy/issues/6619
+scrapy,scrapy,6617,GCSFeedStorage does not support feed_options,closed,2025-01-17T13:44:06Z,2025-01-23T16:06:47Z,9,bug;good first issue,https://github.com/scrapy/scrapy/issues/6617
+scrapy,scrapy,6600,Investigate off-by-1 in `scrapy.cmdline._pop_command_name()`,closed,2025-01-01T19:47:08Z,2025-01-14T15:40:25Z,4,bug;good first issue,https://github.com/scrapy/scrapy/issues/6600
+scrapy,scrapy,6593,Fix Crawler.request_fingerprinter typing,closed,2024-12-27T14:41:09Z,2025-01-07T09:40:51Z,3,bug;good first issue;typing,https://github.com/scrapy/scrapy/issues/6593
+scrapy,scrapy,6505,return in finally can swallow exception,closed,2024-10-22T16:21:43Z,2024-11-14T19:48:08Z,15,bug;good first issue,https://github.com/scrapy/scrapy/issues/6505
+scrapy,scrapy,6504,Fix typing for Twisted 24.10.0,closed,2024-10-22T14:40:29Z,2024-10-29T18:08:39Z,4,bug;CI;typing,https://github.com/scrapy/scrapy/issues/6504
+scrapy,scrapy,6450,"Twisted 24.7.0rc1 deprecation: ""twisted.web.http.HTTPClient was deprecated in Twisted 24.7.0rc1: Use twisted.web.client.Agent instead""",closed,2024-07-31T17:11:33Z,2025-01-28T09:29:48Z,9,bug;cleanup;wontfix,https://github.com/scrapy/scrapy/issues/6450
+scrapy,scrapy,6398,Improve the docs of the dont_filter parameter of Request,closed,2024-06-10T08:51:23Z,2026-02-10T08:49:11Z,0,bug;docs,https://github.com/scrapy/scrapy/issues/6398
+scrapy,scrapy,6383,Error handling in contract parsing,closed,2024-05-30T16:59:37Z,2024-06-05T04:34:47Z,2,bug;good first issue,https://github.com/scrapy/scrapy/issues/6383
+scrapy,scrapy,6369,persist_file() can return a Deferred that is never awaited,closed,2024-05-18T20:19:57Z,2026-03-24T09:52:58Z,3,bug;media pipelines,https://github.com/scrapy/scrapy/issues/6369
+scrapy,scrapy,6365,Fix overridable methods in MediaPipeline,closed,2024-05-15T15:03:25Z,2024-05-28T08:42:59Z,1,bug,https://github.com/scrapy/scrapy/issues/6365
+scrapy,scrapy,6361,Remove top-level reactor imports from CrawlerProces/CrawlerRunner examples ,closed,2024-05-14T09:52:47Z,2024-05-27T10:36:35Z,5,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/6361
+scrapy,scrapy,6350,CachingHostnameResolver with CONCURRENT_REQUESTS_PER_IP fails,closed,2024-05-08T21:22:20Z,2025-12-05T17:03:23Z,8,bug,https://github.com/scrapy/scrapy/issues/6350
+scrapy,scrapy,6343,Make certain args of `ScrapyAgent` and `TunnelingAgent` required,closed,2024-05-07T08:23:10Z,2024-05-10T09:43:50Z,1,bug,https://github.com/scrapy/scrapy/issues/6343
+scrapy,scrapy,6342,"Set METAREFRESH_IGNORE_TAGS to [""noscript""] by default",closed,2024-05-07T07:32:13Z,2024-05-10T07:47:41Z,3,bug;good first issue;backward-incompatible,https://github.com/scrapy/scrapy/issues/6342
+scrapy,scrapy,6328,'json' selector type not documented,closed,2024-05-03T15:53:56Z,2024-06-06T05:55:57Z,4,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/6328
+scrapy,scrapy,6308,Different behavior of `get_header` between urllib.Request and WrappedRequest,closed,2024-04-06T16:52:05Z,2024-04-08T09:47:55Z,4,bug;good first issue,https://github.com/scrapy/scrapy/issues/6308
+scrapy,scrapy,6307,Scrapy and Great Expectations: Error - __provides__,closed,2024-04-05T15:00:38Z,2024-04-29T14:28:01Z,12,bug,https://github.com/scrapy/scrapy/issues/6307
+scrapy,scrapy,6292,Handle robots.txt files not utf-8 encoded,closed,2024-03-15T13:17:43Z,2024-04-05T08:49:12Z,3,bug;good first issue,https://github.com/scrapy/scrapy/issues/6292
+scrapy,scrapy,6286,WindowsRunSpiderCommandTest isn't skipped properly in the pinned envs,closed,2024-03-09T16:31:41Z,2024-03-12T09:17:11Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/6286
+scrapy,scrapy,6258,Proxy tests don't use tests/keys/mitmproxy-ca.pem,closed,2024-02-29T08:34:22Z,2024-02-29T12:12:02Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/6258
+scrapy,scrapy,6214,"When using mongodb MotorClient with scrapy, async with await will introduce Runtime error",closed,2024-02-02T12:27:28Z,2024-02-02T13:54:05Z,11,bug;needs more info;asyncio,https://github.com/scrapy/scrapy/issues/6214
+scrapy,scrapy,6207,Document the deprecation and removal of response_httprepr,closed,2024-01-17T08:48:41Z,2024-02-05T11:52:03Z,6,bug;docs,https://github.com/scrapy/scrapy/issues/6207
+scrapy,scrapy,6204,PyPy tests fail,closed,2024-01-12T12:41:43Z,2024-01-12T17:50:42Z,1,bug;CI,https://github.com/scrapy/scrapy/issues/6204
+scrapy,scrapy,6195,The first rule in a robots.txt with BOM will be ignored,closed,2024-01-04T19:48:48Z,2025-10-15T14:15:08Z,10,bug;good first issue,https://github.com/scrapy/scrapy/issues/6195
+scrapy,scrapy,6160,scrapy shell breaks with ipython >= 8.18.0 and AsyncioSelectorReactor,closed,2023-11-28T10:24:12Z,2024-01-05T20:04:07Z,6,bug;asyncio,https://github.com/scrapy/scrapy/issues/6160
+scrapy,scrapy,6121,Scheduler initializes disk queue even if `JOBDIR` is empty string,closed,2023-10-24T17:12:21Z,2023-10-31T13:37:27Z,0,bug;good first issue,https://github.com/scrapy/scrapy/issues/6121
+scrapy,scrapy,6056,Dropping is_botocore wasn't documented,closed,2023-09-20T10:20:20Z,2023-09-22T08:12:22Z,2,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/6056
+scrapy,scrapy,6044,PyPy tests crash,closed,2023-09-12T07:25:07Z,2023-09-12T14:18:27Z,3,bug;CI;upstream issue,https://github.com/scrapy/scrapy/issues/6044
+scrapy,scrapy,6024,Problem with Twisted AttributeError: 'EPollReactor' object has no attribute '_handleSignals',closed,2023-08-29T00:04:21Z,2023-10-17T13:08:25Z,8,bug,https://github.com/scrapy/scrapy/issues/6024
+scrapy,scrapy,6008,"The ""item-pipeline"" section example of the docs was not updated.",closed,2023-08-10T07:50:31Z,2023-08-10T11:48:45Z,0,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/6008
+scrapy,scrapy,5992,NotConfigured logging breaks when the component is added by class object,closed,2023-08-01T12:50:59Z,2023-08-01T18:19:00Z,0,bug;good first issue,https://github.com/scrapy/scrapy/issues/5992
+scrapy,scrapy,5990,"Requesting a site by its IP address instead of hostname raises OpenSSL.SSL.Error: [('SSL routines', '', 'tlsv1 alert internal error')]",closed,2023-07-28T07:12:16Z,2026-06-09T08:40:02Z,5,bug;https,https://github.com/scrapy/scrapy/issues/5990
+scrapy,scrapy,5989,"type annotation of ""headers"" argument of scrapy.Request is incomplete",closed,2023-07-26T12:01:33Z,2023-10-17T17:07:14Z,1,bug;typing,https://github.com/scrapy/scrapy/issues/5989
+scrapy,scrapy,5961,Fixing the dirty reactor errors,closed,2023-06-25T10:08:49Z,2026-03-27T18:46:20Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/5961
+scrapy,scrapy,5959,BaseSettings.pop method throws KeyError even if default value is provided,closed,2023-06-21T17:03:40Z,2023-06-24T14:23:19Z,4,bug,https://github.com/scrapy/scrapy/issues/5959
+scrapy,scrapy,5957,Investigate/fix test_start_requests_laziness(),closed,2023-06-20T17:18:38Z,2023-08-08T17:19:15Z,1,bug;CI,https://github.com/scrapy/scrapy/issues/5957
+scrapy,scrapy,5936,Docs involving Request.cookies are inaccurate,closed,2023-05-18T15:00:43Z,2023-10-02T16:40:28Z,3,bug;docs,https://github.com/scrapy/scrapy/issues/5936
+scrapy,scrapy,5933,test_s3_export fails on Windows/asyncio,closed,2023-05-15T10:43:28Z,2023-06-25T09:41:24Z,1,bug;Windows;CI,https://github.com/scrapy/scrapy/issues/5933
+scrapy,scrapy,5932,_store_in_thread must not receive a closed file when using postprocessing plugins,closed,2023-05-15T08:24:07Z,2024-02-21T13:27:43Z,2,bug,https://github.com/scrapy/scrapy/issues/5932
+scrapy,scrapy,5886,scrapy doesn't see project settings while debugging spiders in vscode,closed,2023-04-05T12:11:26Z,2023-05-02T19:05:32Z,1,bug;docs;needs more info,https://github.com/scrapy/scrapy/issues/5886
+scrapy,scrapy,5878,Scrapy docs: 'make htmlview' does not work,closed,2023-03-28T03:22:04Z,2023-03-29T08:06:09Z,1,bug;good first issue,https://github.com/scrapy/scrapy/issues/5878
+scrapy,scrapy,5875,Fix broken JavaScript reference in the docs,closed,2023-03-27T11:07:45Z,2023-03-28T10:05:48Z,0,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/5875
+scrapy,scrapy,5874,Scrapy does not decode base64 MD5 checksum from GCS,closed,2023-03-27T05:55:22Z,2023-04-11T16:25:43Z,12,bug;good first issue,https://github.com/scrapy/scrapy/issues/5874
+scrapy,scrapy,5872,get_func_args does not fully work in CPython,closed,2023-03-26T15:22:09Z,2023-04-13T09:44:22Z,2,bug,https://github.com/scrapy/scrapy/issues/5872
+scrapy,scrapy,5857,TLS logging broken with new cryptography,closed,2023-03-24T15:01:33Z,2023-03-27T10:44:46Z,2,bug;good first issue;https,https://github.com/scrapy/scrapy/issues/5857
+scrapy,scrapy,5831,Asyncio event loop handling results in hang in scrapy shell with scrapy-playwright,closed,2023-02-16T07:04:15Z,2023-03-14T08:31:15Z,0,bug;asyncio,https://github.com/scrapy/scrapy/issues/5831
+scrapy,scrapy,5825,Tests fail/hang after merging #5816,closed,2023-02-04T20:42:58Z,2023-02-14T08:40:40Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/5825
+scrapy,scrapy,5819,Scrapy parse doesn't support async callbacks with yield,closed,2023-01-31T11:28:32Z,2023-03-10T15:20:17Z,2,bug;asyncio,https://github.com/scrapy/scrapy/issues/5819
+scrapy,scrapy,5811,`BaseSettings.setdefault` does nothing,closed,2023-01-28T00:18:46Z,2023-03-07T09:27:01Z,5,bug;good first issue,https://github.com/scrapy/scrapy/issues/5811
+scrapy,scrapy,5785,pypy3-pinned OpenSSL error,closed,2023-01-06T14:08:19Z,2023-01-07T19:48:41Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/5785
+scrapy,scrapy,5765,AsyncioTest failures,closed,2022-12-19T08:42:09Z,2023-01-06T18:51:09Z,1,bug;CI;asyncio,https://github.com/scrapy/scrapy/issues/5765
+scrapy,scrapy,5762,reppy problems in CI,closed,2022-12-15T14:32:47Z,2023-01-02T15:13:46Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/5762
+scrapy,scrapy,5750,test_follow_whitespace_* tests broken by new w3lib,closed,2022-12-09T13:41:40Z,2022-12-12T18:49:25Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/5750
+scrapy,scrapy,5749,Fix CI for the tox 4.0 changes,closed,2022-12-09T07:17:29Z,2023-01-06T18:53:21Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/5749
+scrapy,scrapy,5740,asyncio exception in scrapy shell,closed,2022-11-29T18:32:23Z,2022-12-15T05:22:02Z,3,bug;help wanted;Windows;asyncio,https://github.com/scrapy/scrapy/issues/5740
+scrapy,scrapy,5709,"scrapy -h outputs a stray ""commands""",closed,2022-11-09T09:31:44Z,2022-11-10T14:38:48Z,0,bug;good first issue,https://github.com/scrapy/scrapy/issues/5709
+scrapy,scrapy,5707,Possibly contradictory documentation about propagation of `Response.request`,closed,2022-11-08T09:26:05Z,2023-06-21T18:05:41Z,8,bug;docs,https://github.com/scrapy/scrapy/issues/5707
+scrapy,scrapy,5685,DeprecationWarning: There is no current event loop,closed,2022-10-20T07:25:25Z,2022-10-27T12:02:13Z,7,bug;cleanup;asyncio,https://github.com/scrapy/scrapy/issues/5685
+scrapy,scrapy,5612,A test fails with new w3lib,closed,2022-08-29T07:02:15Z,2022-09-07T07:58:12Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/5612
+scrapy,scrapy,5602,Clarify the return type of callbacks,closed,2022-08-18T05:28:21Z,2022-10-02T19:19:09Z,2,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/5602
+scrapy,scrapy,5515,Response.headers loses data on multiple values,closed,2022-06-06T11:25:01Z,2022-06-27T18:03:01Z,0,bug,https://github.com/scrapy/scrapy/issues/5515
+scrapy,scrapy,5500,Postprocessing feeds do not work for S3 feed storage,closed,2022-05-14T02:59:10Z,2023-04-11T11:06:14Z,1,bug,https://github.com/scrapy/scrapy/issues/5500
+scrapy,scrapy,5464,2.6 introduced an undocumented field rename in request serialization,closed,2022-04-05T12:38:17Z,2022-04-13T17:17:44Z,4,bug;docs,https://github.com/scrapy/scrapy/issues/5464
+scrapy,scrapy,5454,test_proxy_connect.py hangs with mitmproxy 8.0.0 (affecting 3.8 tests),closed,2022-03-21T06:16:36Z,2024-01-12T10:26:41Z,4,bug;CI,https://github.com/scrapy/scrapy/issues/5454
+scrapy,scrapy,5444,-o - broken in 2.6,closed,2022-03-08T08:19:36Z,2022-03-15T10:31:07Z,0,bug,https://github.com/scrapy/scrapy/issues/5444
+scrapy,scrapy,5437,CLOSESPIDER_TIMEOUT problem.,closed,2022-03-03T13:16:39Z,2022-04-08T09:55:06Z,9,bug,https://github.com/scrapy/scrapy/issues/5437
+scrapy,scrapy,5435,2.6.0 breaks calling multiple Spider in CrawlerProcess(),closed,2022-03-02T09:58:06Z,2022-04-07T15:00:09Z,11,bug,https://github.com/scrapy/scrapy/issues/5435
+scrapy,scrapy,5425,ImportError: cannot import name 'soft_unicode' from 'markupsafe',closed,2022-02-22T13:50:45Z,2022-02-23T18:52:18Z,3,bug;CI,https://github.com/scrapy/scrapy/issues/5425
+scrapy,scrapy,5424,scrapy parse doesn't support async callbacks,closed,2022-02-21T10:50:47Z,2022-10-15T08:11:07Z,2,bug;asyncio,https://github.com/scrapy/scrapy/issues/5424
+scrapy,scrapy,5414,Change external link (for robots.txt parser comparison) in docs to a more lasting page,closed,2022-02-13T08:42:54Z,2022-02-14T18:16:53Z,2,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/5414
+scrapy,scrapy,5404,tests/test_command_check.py::CheckCommandTest depends on example.com,closed,2022-02-08T18:09:45Z,2022-02-10T09:50:12Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/5404
+scrapy,scrapy,5402,API documentation links seem broken,closed,2022-02-08T17:29:58Z,2025-01-08T11:00:07Z,1,bug;docs,https://github.com/scrapy/scrapy/issues/5402
+scrapy,scrapy,5400,Tests broken with Twisted 22.1.0,closed,2022-02-07T13:48:23Z,2022-02-08T19:06:25Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/5400
+scrapy,scrapy,5391,Incorrect initialization of `csviter` in `scrapy.spiders.feed.CSVFeedSpider`,closed,2022-02-05T13:32:04Z,2022-02-08T13:57:19Z,0,bug;good first issue,https://github.com/scrapy/scrapy/issues/5391
+scrapy,scrapy,5386,Fix SMTP STARTTLS for Twisted >= 21.2.0,closed,2022-02-01T16:09:00Z,2023-01-19T18:44:59Z,14,bug;good first issue,https://github.com/scrapy/scrapy/issues/5386
+scrapy,scrapy,5383,Type error when we try to retrieve the `FEEDS` setting via CLI and it has a `Path` objects as a key,closed,2022-01-30T11:41:20Z,2022-02-04T08:57:57Z,2,bug,https://github.com/scrapy/scrapy/issues/5383
+scrapy,scrapy,5379,Proxy + invalid domain makes Downloader stuck,closed,2022-01-26T07:06:54Z,2026-04-14T15:13:23Z,3,bug,https://github.com/scrapy/scrapy/issues/5379
+scrapy,scrapy,5323,Warning: Unable to determine whether or not callable is a generator with a return value [unable to parse decorated class methods],closed,2021-11-17T04:06:32Z,2022-10-26T07:47:10Z,2,bug,https://github.com/scrapy/scrapy/issues/5323
+scrapy,scrapy,5319,Open in Browser `<base>` replacement will fail if `<head>` has attributes,closed,2021-11-15T10:09:46Z,2021-12-21T12:49:32Z,1,bug,https://github.com/scrapy/scrapy/issues/5319
+scrapy,scrapy,5306,macOS Python 3.10 tests always fail,closed,2021-10-31T10:25:59Z,2024-10-16T19:32:30Z,7,bug;macOS,https://github.com/scrapy/scrapy/issues/5306
+scrapy,scrapy,5298,Tests failing with new Sybil,closed,2021-10-27T14:35:27Z,2021-11-04T14:00:14Z,4,bug;CI,https://github.com/scrapy/scrapy/issues/5298
+scrapy,scrapy,5286,HTTPS TorGuard proxies time out,closed,2021-10-20T19:11:23Z,2022-03-08T09:22:57Z,16,bug,https://github.com/scrapy/scrapy/issues/5286
+scrapy,scrapy,5273,Doctest failure,closed,2021-10-12T12:53:24Z,2021-10-12T17:20:09Z,2,bug;good first issue;docs;CI,https://github.com/scrapy/scrapy/issues/5273
+scrapy,scrapy,5237,Scrapy > 2.3 prevents passing callback in cb_kwargs,closed,2021-08-31T14:26:16Z,2021-10-01T07:50:42Z,3,bug,https://github.com/scrapy/scrapy/issues/5237
+scrapy,scrapy,5220,XPath tutorial xpathdemo live widget does not display Result,closed,2021-08-01T08:48:29Z,2025-01-14T11:44:44Z,5,bug;docs;upstream issue,https://github.com/scrapy/scrapy/issues/5220
+scrapy,scrapy,5212,Test failures on 3.10,closed,2021-07-20T07:44:51Z,2021-08-11T09:19:51Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/5212
+scrapy,scrapy,5180,versionadded inside a warning in CrawlSpider docs,closed,2021-06-15T08:58:17Z,2021-06-29T12:54:23Z,1,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/5180
+scrapy,scrapy,5157,FileFeedStoragePreFeedOptionsTest fails if /tmp/foobar already exists with different ownership,closed,2021-05-23T13:23:03Z,2021-08-05T19:23:12Z,0,bug;good first issue;CI,https://github.com/scrapy/scrapy/issues/5157
+scrapy,scrapy,5154,Problem when running tests,closed,2021-05-20T23:51:39Z,2023-10-29T17:06:14Z,7,bug;CI,https://github.com/scrapy/scrapy/issues/5154
+scrapy,scrapy,5105,Scrapy is definitely slow when working from cache,closed,2021-04-20T11:06:33Z,2021-04-26T18:09:23Z,20,bug,https://github.com/scrapy/scrapy/issues/5105
+scrapy,scrapy,5096,Wrong charset handling in MailSender,closed,2021-04-11T15:50:51Z,2023-09-07T05:47:44Z,6,bug,https://github.com/scrapy/scrapy/issues/5096
+scrapy,scrapy,5085,HTTP2 test failures with some OpenSSL,closed,2021-04-07T11:41:25Z,2021-04-14T17:02:00Z,2,bug;CI,https://github.com/scrapy/scrapy/issues/5085
+scrapy,scrapy,5080,Allow building the documentation with make in systems without /bin/bash,closed,2021-04-05T09:46:24Z,2021-04-21T09:30:50Z,2,bug;docs,https://github.com/scrapy/scrapy/issues/5080
+scrapy,scrapy,5079,ImagePipeline breaks on invalid images,closed,2021-04-05T07:08:04Z,2021-07-13T16:27:56Z,24,bug;good first issue,https://github.com/scrapy/scrapy/issues/5079
+scrapy,scrapy,5043,S3 CsvItemExporter read of closed file error,closed,2021-03-16T22:39:50Z,2023-06-13T14:14:29Z,22,bug,https://github.com/scrapy/scrapy/issues/5043
+scrapy,scrapy,5032,Fix and re-enable tests on macOS,closed,2021-03-09T14:24:14Z,2024-10-16T19:55:11Z,3,bug;CI,https://github.com/scrapy/scrapy/issues/5032
+scrapy,scrapy,5020,"test_pipeline_images.py fails with ""TypeError: Skipped expected string as 'msg' parameter, got 'bool' instead.""",closed,2021-03-02T12:51:14Z,2021-03-19T17:39:44Z,10,bug;CI,https://github.com/scrapy/scrapy/issues/5020
+scrapy,scrapy,4976,Fix and document asyncio reactor problems on Windows,closed,2021-02-04T15:08:05Z,2021-12-31T19:38:10Z,13,bug;Windows,https://github.com/scrapy/scrapy/issues/4976
+scrapy,scrapy,4962,FEED_URI_PARAMS: custom params throws KeyError,closed,2021-01-22T18:24:19Z,2022-01-28T17:30:30Z,9,bug;good first issue,https://github.com/scrapy/scrapy/issues/4962
+scrapy,scrapy,4920,Shell fetch does not use http_proxy,closed,2020-12-09T14:45:19Z,2020-12-13T09:25:46Z,1,bug,https://github.com/scrapy/scrapy/issues/4920
+scrapy,scrapy,4907,Typo in XML exporter serialize_field in Scrapy docs,closed,2020-11-27T10:31:38Z,2020-11-29T20:28:13Z,2,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4907
+scrapy,scrapy,4893,Corutines not working with signal spider_opened - spider freezes,closed,2020-11-18T10:42:15Z,2020-11-18T11:11:00Z,3,bug;asyncio,https://github.com/scrapy/scrapy/issues/4893
+scrapy,scrapy,4892,Update all links in installation guide,closed,2020-11-18T08:12:49Z,2020-12-03T09:56:37Z,3,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4892
+scrapy,scrapy,4887,Not started engine if async open_spider,closed,2020-11-14T08:08:11Z,2020-11-16T14:38:00Z,2,bug;asyncio,https://github.com/scrapy/scrapy/issues/4887
+scrapy,scrapy,4857,Cannot overwrite an output file with -O,closed,2020-10-27T17:43:05Z,2020-11-04T21:29:37Z,0,bug,https://github.com/scrapy/scrapy/issues/4857
+scrapy,scrapy,4841,tests/test_downloadermiddleware.py bug with Twisted 17.9.0 ,closed,2020-10-10T18:54:44Z,2020-11-18T06:38:10Z,5,bug;CI,https://github.com/scrapy/scrapy/issues/4841
+scrapy,scrapy,4833,xmliter_lxml cannot find namespaced node names,closed,2020-10-06T16:50:02Z,2024-02-14T19:21:06Z,1,bug,https://github.com/scrapy/scrapy/issues/4833
+scrapy,scrapy,4829,CSV item exporter does not flush on close,closed,2020-10-05T18:19:06Z,2021-02-24T20:49:59Z,9,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4829
+scrapy,scrapy,4805,Wrong annotations in scrapy.crawler.CrawlProcess.crawl docstrings,closed,2020-09-23T15:38:45Z,2020-10-01T18:46:15Z,5,bug;help wanted;typing,https://github.com/scrapy/scrapy/issues/4805
+scrapy,scrapy,4802,CachingHostnameResolver does not work with reactor.resolve(),closed,2020-09-21T04:11:07Z,2020-10-20T08:55:08Z,4,bug;upstream issue,https://github.com/scrapy/scrapy/issues/4802
+scrapy,scrapy,4766,Invalid cookies ('value' missing) - Added in 2.3.0 - scrapy/downloadermiddlewares/cookies.py ,closed,2020-08-29T16:41:38Z,2020-10-02T18:38:14Z,2,bug,https://github.com/scrapy/scrapy/issues/4766
+scrapy,scrapy,4763,Scrapy parses commented out <base> element,closed,2020-08-28T11:32:50Z,2023-01-29T21:23:47Z,4,bug;upstream issue,https://github.com/scrapy/scrapy/issues/4763
+scrapy,scrapy,4762,request fingerprint should separate different sections when building a hash,closed,2020-08-27T19:27:58Z,2022-06-07T16:44:55Z,4,bug,https://github.com/scrapy/scrapy/issues/4762
+scrapy,scrapy,4760,Error when use scrapy in cmd,closed,2020-08-26T12:59:01Z,2020-08-28T09:33:22Z,3,bug;Windows;needs more info,https://github.com/scrapy/scrapy/issues/4760
+scrapy,scrapy,4726,Test failures on Debian Unstable,closed,2020-08-14T09:57:38Z,2020-08-25T06:48:31Z,0,bug;CI,https://github.com/scrapy/scrapy/issues/4726
+scrapy,scrapy,4717,Request cookies not updated with values from previous response,closed,2020-08-10T11:51:38Z,2020-10-08T15:20:33Z,4,bug,https://github.com/scrapy/scrapy/issues/4717
+scrapy,scrapy,4702,Tests fail because of pytest 6.0.0,closed,2020-07-29T10:53:38Z,2020-07-30T06:27:26Z,6,bug;CI,https://github.com/scrapy/scrapy/issues/4702
+scrapy,scrapy,4671,Add docs for FEEDS.uri_params and FEED_URI_PARAMS,closed,2020-07-09T08:50:52Z,2020-08-14T09:47:56Z,1,bug;docs,https://github.com/scrapy/scrapy/issues/4671
+scrapy,scrapy,4667,List of fields incorrectly accessed for dataclass items,closed,2020-07-08T15:44:07Z,2020-07-28T09:15:14Z,1,bug,https://github.com/scrapy/scrapy/issues/4667
+scrapy,scrapy,4665,startproject only allows creating the project on an existing folder if the path is specified with an invalid module name,closed,2020-07-07T11:57:51Z,2021-08-24T07:18:49Z,3,bug,https://github.com/scrapy/scrapy/issues/4665
+scrapy,scrapy,4662,scrapy startproject alters executable permissions in local virtualenv,closed,2020-07-06T17:34:57Z,2020-07-13T11:01:06Z,1,bug,https://github.com/scrapy/scrapy/issues/4662
+scrapy,scrapy,4644,test_integration_downloader_aware_priority_queue raises exception,closed,2020-06-23T12:56:02Z,2020-06-25T13:36:44Z,0,bug,https://github.com/scrapy/scrapy/issues/4644
+scrapy,scrapy,4643,Allow run pyw scripts,closed,2020-06-22T16:03:21Z,2020-10-01T18:53:09Z,4,bug;Windows,https://github.com/scrapy/scrapy/issues/4643
+scrapy,scrapy,4621,Storage.store is called only for the first feed when empty,closed,2020-06-10T07:57:56Z,2020-06-17T15:08:15Z,2,bug,https://github.com/scrapy/scrapy/issues/4621
+scrapy,scrapy,4619,Duplicated feed logs when having multiple feeds,closed,2020-06-09T16:27:31Z,2020-06-23T10:33:49Z,1,bug,https://github.com/scrapy/scrapy/issues/4619
+scrapy,scrapy,4597,KeyError in is_generator_with_return_value,closed,2020-05-27T06:56:02Z,2020-05-27T16:42:05Z,0,bug,https://github.com/scrapy/scrapy/issues/4597
+scrapy,scrapy,4592,Remove unneeded escape sequences from documentation API signatures,closed,2020-05-22T14:54:13Z,2020-06-01T21:30:34Z,2,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4592
+scrapy,scrapy,4578,Downloadable documentation is missing for versions 2.0 and 2.1 on readthedocs.org,closed,2020-05-14T23:43:56Z,2020-05-19T15:45:21Z,4,bug;docs,https://github.com/scrapy/scrapy/issues/4578
+scrapy,scrapy,4570,Flake8 build error in Travis,closed,2020-05-12T13:32:53Z,2020-05-13T21:02:04Z,6,bug;upstream issue,https://github.com/scrapy/scrapy/issues/4570
+scrapy,scrapy,4547,Review unicode references,closed,2020-05-07T09:47:03Z,2020-08-04T18:34:12Z,7,bug;docs,https://github.com/scrapy/scrapy/issues/4547
+scrapy,scrapy,4514,Outdated item pipeline example about Deferred,closed,2020-04-27T14:53:50Z,2020-05-22T18:12:58Z,4,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4514
+scrapy,scrapy,4511,Remove the asyncio warning from the page about coroutines,closed,2020-04-23T16:29:00Z,2020-04-27T17:45:19Z,0,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4511
+scrapy,scrapy,4510,configure_logging documentation example incomplete,closed,2020-04-21T18:18:48Z,2020-05-20T17:23:43Z,1,bug;docs,https://github.com/scrapy/scrapy/issues/4510
+scrapy,scrapy,4496,Fix the hoverxref configuration,closed,2020-04-15T18:00:50Z,2020-04-16T13:19:46Z,0,bug;docs,https://github.com/scrapy/scrapy/issues/4496
+scrapy,scrapy,4485,TWISTED_REACTOR setting not honored from Spider.custom_settings,closed,2020-04-12T03:17:20Z,2022-01-06T06:31:59Z,15,bug;asyncio,https://github.com/scrapy/scrapy/issues/4485
+scrapy,scrapy,4477,is_generator_with_return_value raises IndentationError with a flush left doc string,closed,2020-04-08T02:04:08Z,2021-03-22T14:51:12Z,4,bug,https://github.com/scrapy/scrapy/issues/4477
+scrapy,scrapy,4475,The documentation cannot be built with Sphinx 3,closed,2020-04-06T00:29:27Z,2020-04-15T17:42:50Z,5,bug;docs;upstream issue,https://github.com/scrapy/scrapy/issues/4475
+scrapy,scrapy,4408,follow_all fails with an empty list of URLs,closed,2020-03-06T16:36:29Z,2020-03-12T13:44:49Z,0,bug,https://github.com/scrapy/scrapy/issues/4408
+scrapy,scrapy,4393,scrapy parse emits ANSI color sequences in the Windows terminal,closed,2020-03-02T10:45:39Z,2020-07-28T11:13:20Z,8,bug;Windows,https://github.com/scrapy/scrapy/issues/4393
+scrapy,scrapy,4346,FilesDownloader with GCS downloading updtodate files again,closed,2020-02-19T13:55:38Z,2020-05-07T09:06:12Z,10,bug,https://github.com/scrapy/scrapy/issues/4346
+scrapy,scrapy,4332,ie. → i.e.,closed,2020-02-14T21:34:24Z,2020-02-19T15:49:20Z,5,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4332
+scrapy,scrapy,4308,"Mac OS X, OS X → macOS",closed,2020-02-06T08:23:42Z,2020-02-28T19:42:08Z,2,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4308
+scrapy,scrapy,4289,Fatal error launching scrapy>1.6.0 from Anaconda Prompt,closed,2020-01-26T14:30:25Z,2020-04-09T19:45:16Z,9,bug;install,https://github.com/scrapy/scrapy/issues/4289
+scrapy,scrapy,4285,"Fix ""Debugging memory leaks with Guppy"" section (docs)",closed,2020-01-24T10:37:54Z,2020-04-03T02:27:47Z,6,bug;good first issue;docs,https://github.com/scrapy/scrapy/issues/4285
+scrapy,scrapy,4277,Response.follow() method not consistent with Request.__init__(). Missing `flags`.,closed,2020-01-17T13:28:19Z,2020-02-10T18:48:32Z,4,bug;good first issue;help wanted,https://github.com/scrapy/scrapy/issues/4277
+scrapy,scrapy,4268,Random failures in CrawlTestCase.test_fixed_delay,closed,2020-01-09T11:21:43Z,2020-02-28T12:17:03Z,15,bug;good first issue,https://github.com/scrapy/scrapy/issues/4268
+scrapy,scrapy,4264,Document that Scrapy 1.7.0 breaks custom schedulers,closed,2020-01-02T19:34:01Z,2020-02-06T21:21:34Z,2,bug;docs,https://github.com/scrapy/scrapy/issues/4264
+scrapy,scrapy,4260,First Spider Middleware does not process exception for generator callback,closed,2019-12-30T10:02:52Z,2020-02-07T18:40:51Z,4,bug,https://github.com/scrapy/scrapy/issues/4260
+scrapy,scrapy,4229,mail attachs tcmime***,closed,2019-12-13T12:39:22Z,2019-12-17T14:43:31Z,5,bug,https://github.com/scrapy/scrapy/issues/4229
+scrapy,scrapy,4217,DOWNLOAD_FAIL_ON_DATALOSS logged for all requests,closed,2019-12-05T19:38:32Z,2026-05-02T21:11:44Z,4,bug,https://github.com/scrapy/scrapy/issues/4217
+scrapy,scrapy,4175,Scrapy does not use a non-zero exit code when pipeline's open_spider throws the exception,closed,2019-11-19T08:10:32Z,2020-02-25T19:46:06Z,4,bug,https://github.com/scrapy/scrapy/issues/4175
+scrapy,scrapy,4145,only version 1.8.0   robots.txt forbidden,closed,2019-11-12T01:11:25Z,2019-12-09T12:32:11Z,2,bug;upstream issue,https://github.com/scrapy/scrapy/issues/4145
+scrapy,scrapy,4124,Fix wrong fact in JOBDIR documentation about requests needing to be pickle-serializable,closed,2019-11-04T20:19:06Z,2019-11-08T17:49:34Z,0,bug;docs,https://github.com/scrapy/scrapy/issues/4124
+scrapy,scrapy,4076,Docs: Broken link on developer-tools,closed,2019-10-14T10:14:07Z,2019-10-15T18:49:51Z,1,bug;docs,https://github.com/scrapy/scrapy/issues/4076
+scrapy,scrapy,4072,BOT_NAME and the user agent,closed,2019-10-11T12:15:12Z,2019-10-16T12:15:00Z,1,bug;docs,https://github.com/scrapy/scrapy/issues/4072
+scrapy,scrapy,4035,CLOSESPIDER_TIMEOUT Settings 36000 Invalid Settings 60 ok ?,closed,2019-09-25T02:27:34Z,2019-10-30T09:14:16Z,7,bug;needs more info,https://github.com/scrapy/scrapy/issues/4035
+scrapy,scrapy,4032,Error 302 redirection with headers location starts with 3 slash,closed,2019-09-23T07:56:49Z,2019-10-30T08:09:13Z,8,bug,https://github.com/scrapy/scrapy/issues/4032
+scrapy,scrapy,4027,Upgrading from 1.4 to 1.5 results in many 400 responses,closed,2019-09-19T06:30:27Z,2020-04-23T12:19:46Z,3,bug,https://github.com/scrapy/scrapy/issues/4027
+scrapy,scrapy,4014,Random(?) test_crawler.py failure on Travis,closed,2019-09-13T14:49:40Z,2019-10-31T12:31:34Z,8,bug;CI,https://github.com/scrapy/scrapy/issues/4014
+scrapy,scrapy,4007,Exception when using DummyStatsCollector,closed,2019-09-09T12:18:03Z,2019-10-02T07:06:23Z,5,bug;discuss,https://github.com/scrapy/scrapy/issues/4007
+scrapy,scrapy,3995,ImagesPipeline does not follow redirection,closed,2019-08-31T05:39:56Z,2019-09-27T14:32:27Z,2,bug,https://github.com/scrapy/scrapy/issues/3995
+scrapy,scrapy,3985,Contracts can't be written for callbacks that receive cb_kwargs,closed,2019-08-28T19:11:27Z,2019-09-07T23:23:16Z,2,bug,https://github.com/scrapy/scrapy/issues/3985
+scrapy,scrapy,3976,`ItemLoader` fields initialized from `item` are reprocessed,closed,2019-08-26T12:18:42Z,2019-10-28T09:53:54Z,9,bug,https://github.com/scrapy/scrapy/issues/3976
+scrapy,scrapy,3953,OSError when downloading a very long url,closed,2019-08-12T10:44:19Z,2019-09-16T12:04:07Z,9,bug;good first issue,https://github.com/scrapy/scrapy/issues/3953
+scrapy,scrapy,3938,Incorrect deprecation warning on S3FeedStorage,closed,2019-08-05T13:44:42Z,2025-01-08T10:37:42Z,4,bug,https://github.com/scrapy/scrapy/issues/3938
